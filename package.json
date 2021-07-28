@@ -1,0 +1,20 @@
+{
+  "name": "node-js-getting-started",
+  "version": "0.0.1",
+  "description": "A sample Node.js app",
+  "engines": {
+    "node": "12.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "npx nodemon index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "node"
+  ],
+  "license": "MIT"
+}
